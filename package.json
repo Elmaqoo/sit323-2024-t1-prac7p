@@ -1,0 +1,17 @@
+{
+  "name": "sit323-2024-t1-prac9p",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000s\u0000i\u0000t\u00003\u00002\u00003\u0000-\u00002\u00000\u00002\u00004\u0000-\u0000t\u00001\u0000-\u0000p\u0000r\u0000a\u0000c\u00009\u0000p\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.6.1"
+  }
+}
